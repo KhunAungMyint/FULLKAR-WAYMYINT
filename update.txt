@@ -1,4 +1,4 @@
 {
-  "version": "5.1",
+  "version": "1.0",
   "medifire": "http://www.xnxx.com"
 }
