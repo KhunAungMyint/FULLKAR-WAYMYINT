@@ -1,4 +1,4 @@
 {
-  "version": "1.0",
-  "medifire": "http://www.xnxx.com"
+  "update": "1.0",
+  "download": "https://play.google.com/store/apps/details?id="
 }
